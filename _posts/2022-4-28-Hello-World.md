@@ -1,0 +1,8 @@
+---
+layout: post
+title: Welcome!
+---
+
+Expect to find blog posts here of home labs and home automation, as well as things I find interesting in my day-to-day job.
+
+
