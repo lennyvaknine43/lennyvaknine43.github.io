@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi Everyone
+My name is Lenny Vaknine and I am a Client Platform Engineer / SysAdmin. When I am not putting out fires I will try to blog here. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More soon
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
