@@ -2,6 +2,7 @@
 layout: post
 title: Send Slack Notifications When Devices Enroll or are Wiped From Workspace One UEM
 categories: updates
+comments: true
 ---
 
 In a previous job I referenced TaniaComputers excellent blog post for jamf computers reporting when a computer was successfully enrolled via slack notification to a dedicated channel. This was valuable to us and helped on a few occassions with troubleshooting enrollments and other issues. 
