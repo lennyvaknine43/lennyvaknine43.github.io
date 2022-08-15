@@ -14,4 +14,4 @@ For **Target Name** enter a name like "Endpoint Enroll/Wipe Notifications"
 For **Target URL** go to (https://webhook.site) and generate a **temporary** webhook to see the data being sent on event trigger.
 Under **Events** select **Device Enrollment** **Device Unenrolled Enterprise Wipe** **Device Wipe** **Device Delete**
 Click on **Test Connection** you should see a successs.
-![](/images/notification-events.png =200x200)
+![](/images/notification-events.png)
