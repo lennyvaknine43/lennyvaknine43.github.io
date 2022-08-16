@@ -49,5 +49,7 @@ In the **API Connector Post** card in the **URL** field put your **Slack Webhook
 Save and run the flow. You should start seeing outputs like this in your Slack Channel:
 ![](/images/working-bot-example.png)
 
+**Text Compose** card text minus the variables below:
+
 {% gist 7ec7a99d05e69318f9a1f817bb7c1f8f %}
 
