@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Send Slack Notifications Using Okta Workflows When Devices Enroll / are Wiped From Workspace One UEM
+title: Send Slack Notifications Using Okta Workflows When Devices Enroll / Are Wiped From Workspace One UEM
 categories: updates
 comments: true
 ---
