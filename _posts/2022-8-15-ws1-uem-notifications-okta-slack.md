@@ -57,7 +57,7 @@ Save and run the flow. You should start seeing outputs like this in your Slack C
 <script>
   kofiWidgetOverlay.draw('lennyv', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.text': 'Tip Jar',
     'floating-chat.donateButton.background-color': '#00b9fe',
     'floating-chat.donateButton.text-color': '#fff'
   });
