@@ -53,4 +53,4 @@ Save and run the flow. You should start seeing outputs like this in your Slack C
 
 {% gist 7ec7a99d05e69318f9a1f817bb7c1f8f %}
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'D1D3EFTES');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'D1D3EFTES');kofiwidget2.draw();</script>
